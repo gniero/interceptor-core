@@ -1,0 +1,11 @@
+{
+  "name": "interceptor-core",
+  "version": "1.0.0",
+  "description": "An application to intercept http requests and save / retrieve responses from disk",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Niero",
+  "license": "ISC"
+}
